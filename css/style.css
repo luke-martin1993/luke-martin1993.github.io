@@ -1,0 +1,62 @@
+body{
+    margin: 0;
+}
+
+.section{
+    height: 100vh;
+    padding-left: 10%;
+    padding-right: 10%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    text-align: center; 
+}
+#section-one{
+    background-color: #1172B2;
+    height: 130vh;
+}
+
+.heading{
+    color: white;
+    font-family: 'Bree Serif', serif;
+    font-size: 1.5em;
+}
+
+.section-content{
+    width: 60%;
+    font-family: 'Bree Serif', serif;
+    color: white;
+}
+
+#section-two{
+    background-color: #3DB6DB;
+}
+
+#section-three{
+    background-color: #1172B2;
+    height: 120vh;
+}
+
+#section-four{
+    background-color: #3DB6DB;
+    height: 250vh;
+}
+
+#section-five{
+    background-color: #1172B2;
+    height: 450vh;
+}
+
+#image-container{
+    display: inline-flex;
+}
+
+#container{
+    text-align:left
+}
+
+.button{
+    cursor: pointer;
+}
+
